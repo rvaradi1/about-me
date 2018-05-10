@@ -4,4 +4,6 @@ fav animal dog
 
 fav color red-blue
 
+fav noise chimes
+
 copyright
