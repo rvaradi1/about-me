@@ -1,0 +1,8 @@
+fav animal dog
+<<<<<<< HEAD
+fav color red
+=======
+fav color blue
+>>>>>>> blue
+
+copyright

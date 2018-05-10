@@ -1,0 +1,4 @@
+fav animal dog
+fav color red
+
+copyright
